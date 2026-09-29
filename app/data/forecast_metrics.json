@@ -1,0 +1,14 @@
+{
+  "National": {
+    "holdout_days": 90,
+    "prophet_mae_pts": 8.04,
+    "baseline_mae_pts": 7.87,
+    "improvement_pct": -2.1
+  },
+  "STL": {
+    "holdout_days": 90,
+    "prophet_mae_pts": 11.47,
+    "baseline_mae_pts": 10.67,
+    "improvement_pct": -7.5
+  }
+}

@@ -1,0 +1,8 @@
+feature,mean_abs_shap,label
+month,0.3677691,Month
+dep_hour,0.3466734,Departure hour
+airline,0.16662957,Airline
+origin,0.13768382,Origin airport
+dest,0.13383959,Destination airport
+day_of_week,0.11019657,Day of week
+distance,0.020474354,Distance
