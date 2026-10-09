@@ -121,6 +121,6 @@ scripts/    fake-data generator for testing
 ## About me
 
 I'm **Sridhar Reddy Somireddy**, a data analyst in St. Louis with an M.S. in Data Analytics from
-Saint Louis University. I'm looking for data analyst roles and internships.
+Saint Louis University. I'm seeking data analyst roles.
 
 [GitHub](https://github.com/sridharreddy22) · [LinkedIn](https://www.linkedin.com/in/sridharreddy22aekn1990)
